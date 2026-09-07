@@ -1,11 +1,13 @@
 # gyazo-uploader
 
 Gyazo に画像ファイルをアップロードできる CLI プログラム．
+
 Gyazo に登録した画像の URL をクリップボードにコピーするため，画像のアップロードと URL の利用を同時に行いたい場面で利用できる．
 
 ## Prerequisites
 
 Wayland 環境で動作する．
+
 以下のパッケージをインストールする．
 
 ```bash
